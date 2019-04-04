@@ -10,3 +10,5 @@ github_username:  RG
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
