@@ -1,12 +1,7 @@
-# Site settings
 title: RG
-email: 1150671652@qq.com
-description: "hello blog"
+description: hello blog
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 
-baseurl: "/Ion-Jekyll-Theme" # the subpath of your site, e.g. /blog/
-url: "MrRGRG.github.io" # the base hostname & protocol for your site
-twitter_username: RG
-github_username:  RG
-
-# Build settings
-markdown: kramdown
+url: "https://mrrgrg.github.io/"
